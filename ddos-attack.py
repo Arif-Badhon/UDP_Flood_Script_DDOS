@@ -23,8 +23,7 @@ bytes_to_send = random._urandom(1490)
 # Clear the screen and display a banner
 os.system("clear")
 os.system("figlet DDos Attack")
-print("Author   : HA-MRX")
-print("github   : https://github.com/Ha3MrX")
+print("Author   : BlackCat")
 print()
 
 # Get target IP and port from user
